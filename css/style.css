@@ -1,4 +1,5 @@
 body {
+	height: 100vh;
 	background-color: #14BD31;
 	cursor:url('images/lizard-emoji_32x32.png'), auto;
 }
