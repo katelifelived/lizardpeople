@@ -1,0 +1,30 @@
+body {
+	background-color: #598527
+}
+
+img {
+	position: fixed;
+	width: 50%;
+	height: 50%;	
+}
+
+img.lizard {
+	top: 0;
+	left: 0;
+}
+
+img.people {
+	top: 0;
+	right: 0;
+}
+
+img.coming {
+	bottom: 0;
+	left: 0;
+}
+
+img.soon {
+	bottom: 0;
+	right: 0;
+}
+
